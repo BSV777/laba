@@ -1,0 +1,100 @@
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\курсовая\obj\Debug\курсовая.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\курсовая\bin\Debug\курсовая.exe
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\курсовая\bin\Debug\курсовая.pdb
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\курсовая\obj\Debug\курсовая.exe
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\курсовая\obj\Debug\курсовая.pdb
+C:\C_program\курсовая\курсовая\obj\Debug\курсовая.exe
+C:\C_program\курсовая\курсовая\obj\Debug\курсовая.pdb
+C:\C_program\курсовая\курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\C_program\курсовая\курсовая\obj\Debug\курсовая.Form1.resources
+C:\C_program\курсовая\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\C_program\курсовая\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
+C:\C_program\курсовая\курсовая\bin\Debug\курсовая.exe
+C:\C_program\курсовая\курсовая\bin\Debug\курсовая.pdb
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\obj\Debug\курсовая.exe
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\obj\Debug\курсовая.pdb
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\obj\Debug\курсовая.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\bin\Debug\курсовая.exe
+C:\Documents and Settings\Admin\Рабочий стол\курсовая\bin\Debug\курсовая.pdb
+C:\C_program\курсовая3\курсовая\obj\Debug\курсовая.exe
+C:\C_program\курсовая3\курсовая\obj\Debug\курсовая.pdb
+C:\C_program\курсовая3\курсовая\bin\Debug\курсовая.exe
+C:\C_program\курсовая3\курсовая\bin\Debug\курсовая.pdb
+C:\C_program\курсовая3\курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\C_program\курсовая3\курсовая\obj\Debug\курсовая.Form1.resources
+C:\C_program\курсовая3\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\C_program\курсовая3\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\курсовая4\курсовая\obj\Debug\курсовая.exe
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка (2)\курсовая4\курсовая\obj\Debug\курсовая.pdb
+C:\dist\C_prog\курсовая 5\курсовая\obj\Debug\курсовая.exe
+C:\dist\C_prog\курсовая 5\курсовая\obj\Debug\курсовая.pdb
+C:\dist\C_prog\курсовая 5\курсовая\bin\Debug\курсовая.exe
+C:\dist\C_prog\курсовая 5\курсовая\bin\Debug\курсовая.pdb
+C:\dist\C_prog\курсовая 5\курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\dist\C_prog\курсовая 5\курсовая\obj\Debug\курсовая.Form1.resources
+C:\dist\C_prog\курсовая 5\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\dist\C_prog\курсовая 5\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
+C:\C_program\курсовая 6\курсовая 6\курсовая\obj\Debug\курсовая.exe
+C:\C_program\курсовая 6\курсовая 6\курсовая\obj\Debug\курсовая.pdb
+C:\C_program\курсовая 6\курсовая 6\курсовая\bin\Debug\курсовая.exe
+C:\C_program\курсовая 6\курсовая 6\курсовая\bin\Debug\курсовая.pdb
+C:\C_program\курсовая 6\курсовая 6\курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\C_program\курсовая 6\курсовая 6\курсовая\obj\Debug\курсовая.Form1.resources
+C:\C_program\курсовая 6\курсовая 6\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\C_program\курсовая 6\курсовая 6\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
+C:\C_program\курсовая 7\курсовая\obj\Debug\курсовая.exe
+C:\C_program\курсовая 7\курсовая\obj\Debug\курсовая.pdb
+C:\C_program\курсовая 7\курсовая\bin\Debug\курсовая.exe
+C:\C_program\курсовая 7\курсовая\bin\Debug\курсовая.pdb
+C:\C_program\курсовая 7\курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\C_program\курсовая 7\курсовая\obj\Debug\курсовая.Form1.resources
+C:\C_program\курсовая 7\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\C_program\курсовая 7\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\8\курсовая 8\курсовая\obj\Debug\курсовая.exe
+C:\Documents and Settings\Admin\Рабочий стол\8\курсовая 8\курсовая\obj\Debug\курсовая.pdb
+C:\Documents and Settings\Admin\Рабочий стол\8\курсовая 8\курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\8\курсовая 8\курсовая\obj\Debug\курсовая.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\8\курсовая 8\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\8\курсовая 8\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\8\курсовая 8\курсовая\bin\Debug\курсовая.exe
+C:\Documents and Settings\Admin\Рабочий стол\8\курсовая 8\курсовая\bin\Debug\курсовая.pdb
+C:\C_program\курсовая 9\курсовая\obj\Debug\курсовая.exe
+C:\C_program\курсовая 9\курсовая\obj\Debug\курсовая.pdb
+C:\C_program\курсовая 9\курсовая\bin\Debug\курсовая.exe
+C:\C_program\курсовая 9\курсовая\bin\Debug\курсовая.pdb
+C:\C_program\курсовая 9\курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\C_program\курсовая 9\курсовая\obj\Debug\курсовая.Form1.resources
+C:\C_program\курсовая 9\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\C_program\курсовая 9\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
+C:\C_program\курсовая 10\курсовая\obj\Debug\курсовая.exe
+C:\C_program\курсовая 10\курсовая\obj\Debug\курсовая.pdb
+C:\C_program\курсовая 10\курсовая\bin\Debug\курсовая.exe
+C:\C_program\курсовая 10\курсовая\bin\Debug\курсовая.pdb
+C:\C_program\курсовая 10\курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\C_program\курсовая 10\курсовая\obj\Debug\курсовая.Form1.resources
+C:\C_program\курсовая 10\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\C_program\курсовая 10\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
+C:\C_program\курсовая 11\курсовая\obj\Debug\курсовая.exe
+C:\C_program\курсовая 11\курсовая\obj\Debug\курсовая.pdb
+C:\C_program\курсовая 11\курсовая\bin\Debug\курсовая.exe
+C:\C_program\курсовая 11\курсовая\bin\Debug\курсовая.pdb
+C:\C_program\курсовая 11\курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\C_program\курсовая 11\курсовая\obj\Debug\курсовая.Form1.resources
+C:\C_program\курсовая 11\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\C_program\курсовая 11\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
+C:\C_program\курсовая 12\курсовая\obj\Debug\курсовая.exe
+C:\C_program\курсовая 12\курсовая\obj\Debug\курсовая.pdb
+C:\C_program\курсовая 12\курсовая\bin\Debug\курсовая.exe
+C:\C_program\курсовая 12\курсовая\bin\Debug\курсовая.pdb
+C:\C_program\курсовая 12\курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\C_program\курсовая 12\курсовая\obj\Debug\курсовая.Form1.resources
+C:\C_program\курсовая 12\курсовая\obj\Debug\курсовая.Properties.Resources.resources
+C:\C_program\курсовая 12\курсовая\obj\Debug\курсовая.csproj.GenerateResource.Cache
+C:\C_program\курсовая 13\курсовая\obj\Debug\курсовая.exe
+C:\C_program\курсовая 13\курсовая\obj\Debug\курсовая.pdb
